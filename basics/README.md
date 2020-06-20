@@ -1,3 +1,6 @@
+Basics
+=====
+
 40 examples to review the basics of Python:
 * 1.print.py
 * 2.variables.py
